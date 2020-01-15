@@ -1,0 +1,140 @@
+﻿
+@{
+    ViewBag.Title = "Products";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Products</h2>
+
+<div ng-controller="CtrlProducts" ng-app="appProducts">
+    <div class="divList">
+        <p><b><i>Products List</i></b>
+        </p>
+        <div class="form-group">
+            <div class="input-group">
+                <div class="input-group-addon"><i class="fa fa-search"></i></div>
+                <input type="text" class="form-control" placeholder="Search Product" ng-model="searchProduct">
+            </div>
+        </div>
+        <table class="table table-striped table-hover">
+            <tr>
+                <td>
+                    <a href="#" ng-click="sortType = 'ID'; sortReverse = !sortReverse">
+                        ID
+                        <span ng-show="sortType == 'ID' && !sortReverse" class="fa fa-caret-down">1</span>
+                        <span ng-show="sortType == 'ID' && sortReverse" class="fa fa-caret-up">2</span>
+                    </a>
+                </td>
+                
+                <td>
+                    <a href="#" ng-click="sortType = 'Name'; sortReverse = !sortReverse">
+                        Name
+                        <span ng-show="sortType == 'Name' && !sortReverse" class="fa fa-caret-down">1</span>
+                        <span ng-show="sortType == 'Name' && sortReverse" class="fa fa-caret-up">2</span>
+                    </a>
+                </td>
+                <td>
+                    <a href="#" ng-click="sortType = 'Price'; sortReverse = !sortReverse">
+                        Price
+                        <span ng-show="sortType == 'Price' && !sortReverse" class="fa fa-caret-down">1</span>
+                        <span ng-show="sortType == 'Price' && sortReverse" class="fa fa-caret-up">2</span>
+                    </a>
+                </td>
+                <td>
+                    <a href="#" ng-click="sortType = 'Rank'; sortReverse = !sortReverse">
+                        Rank
+                        <span ng-show="sortType == 'Rank' && !sortReverse" class="fa fa-caret-down">1</span>
+                        <span ng-show="sortType == 'Rank' && sortReverse" class="fa fa-caret-up">2</span>
+                    </a>
+                </td>
+                <td>
+                    <a href="#" ng-click="sortType = 'Category_Id'; sortReverse = !sortReverse">
+                        Category
+                        <span ng-show="sortType == 'Category_Id' && !sortReverse" class="fa fa-caret-down">1</span>
+                        <span ng-show="sortType == 'Category_Id' && sortReverse" class="fa fa-caret-up">2</span>
+                    </a>
+                </td>
+                <td></td>
+
+            </tr>
+            <tr ng-repeat="product in products | filter:searchProduct | orderBy:sortType:sortReverse">
+                <td>
+                    {{product.Id}}
+                </td>
+                <td>
+                    {{product.Name}}
+                </td>
+                <td>
+                    {{product.Price}}
+                </td>
+                <td>
+                    @*{{product.Rank}}*@
+                    <span ng-repeat="n in range(1,product.Rank)"><img src="~/Images/star1.ico" height="24" width="24" /></span>
+                </td>
+                <td>                   
+                    <div ng-repeat="x in categories | filter:{Id:product.Category_Id}:true ">
+                        {{ (x.Description | uppercase) }}
+                    </div>                 
+                </td>
+                <td>
+                    <span ng-click="editProduct(product)" class="btn btn-primary">Edit</span>
+                    <span ng-click="deleteProduct(product)" class="btn btn-danger">Delete</span>
+                </td>
+            </tr>
+        </table>
+    </div>
+    <span ng-click="AddProductDiv()" class="btn btn-default">
+        Add Product
+    </span>
+    <div ng-show="divProduct">
+        <p class="divHead"></p>
+        <table class="table">
+            <tr>
+                <td><b><i>{{Action}} Product</i></b></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><b>Id</b></td>
+                <td>
+                    <input type="text" disabled="disabled" ng-model="productID"/>
+                </td>
+                <td><b>Name</b></td>
+                <td>
+                    <input type="text" ng-model="productName"/>
+                </td>
+            </tr>
+            <tr>
+                <td><b>Price</b></td>
+                <td>
+                    <input type="text" ng-model="productPrice"/>
+                </td>
+                <td><b>Rank</b></td>
+                <td>
+                    <input type="text" ng-model="productRank"/>
+                </td>
+            </tr>
+            <tr>
+                <td><b>Category</b></td>
+                <td>                  
+                    <select ng-model="productCategoryId" ng-options="x.Id as x.Description for x in categories " ></select>
+                </td>
+                <td></td>
+                <td></td>
+            </tr>
+       
+
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>
+                    <input type="button" class="btn btn-default" value="Save" ng-click="AddUpdateProduct()" />
+                    <input type="button" class="btn btn-danger" value="Cancel" ng-click="Cancel()" />
+                </td>
+            </tr>
+
+        </table>
+    </div>
+</div>

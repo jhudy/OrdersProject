@@ -1,0 +1,190 @@
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\ApplicationInsights.config
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\roslyn\csc.exe
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\roslyn\vbc.exe
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\OrdersProject.dll.config
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\OrdersProject.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\OrdersProject.pdb
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Antlr3.Runtime.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\EntityFramework.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\EntityFramework.SqlServer.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.AI.Web.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.Owin.Cors.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.Owin.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.Owin.Security.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Newtonsoft.Json.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Owin.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\System.Net.Http.Formatting.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.Cors.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.Helpers.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.Http.Cors.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.Http.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.Http.Owin.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.Http.WebHost.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.Mvc.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.Optimization.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.Razor.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.WebPages.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\WebGrease.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.AI.Web.xml
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.Owin.Cors.xml
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.Http.Cors.xml
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Newtonsoft.Json.xml
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\System.Net.Http.Formatting.xml
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.Helpers.xml
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.Http.xml
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.Http.WebHost.xml
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.Mvc.xml
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.Optimization.xml
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.Razor.xml
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.WebPages.xml
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Antlr3.Runtime.pdb
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\EntityFramework.xml
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\EntityFramework.SqlServer.xml
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.Owin.xml
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.Owin.Security.xml
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.Http.Owin.xml
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\obj\Debug\OrdersProject.dll
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\obj\Debug\OrdersProject.pdb
+C:\Users\claud\Documents\DIPLO_TEST\INSTALL\OrdersProject\OrdersProject\OrdersProject\obj\Debug\OrdersAPI.csprojResolveAssemblyReference.cache
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\ApplicationInsights.config
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\roslyn\csc.exe
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\roslyn\System.Collections.Immutable.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\roslyn\vbc.exe
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\roslyn\VBCSCompiler.exe
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\roslyn\VBCSCompiler.exe.config
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\OrdersProject.dll.config
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\OrdersProject.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\OrdersProject.pdb
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Antlr3.Runtime.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\EntityFramework.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\EntityFramework.SqlServer.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.AI.DependencyCollector.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.AI.Web.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.AI.WindowsServer.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.ApplicationInsights.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.Owin.Cors.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.Owin.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.Owin.Security.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.Owin.Security.Google.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Newtonsoft.Json.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Owin.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\System.Net.Http.Formatting.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.Cors.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.Helpers.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.Http.Cors.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.Http.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.Http.Owin.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.Http.WebHost.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.Mvc.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.Optimization.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.Razor.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.WebPages.Deployment.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.WebPages.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.WebPages.Razor.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\WebGrease.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.AI.DependencyCollector.xml
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.AI.Web.xml
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.AI.WindowsServer.xml
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.ApplicationInsights.xml
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.Owin.Cors.xml
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.Http.Cors.xml
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Newtonsoft.Json.xml
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\System.Net.Http.Formatting.xml
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.Helpers.xml
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.Http.xml
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.Http.WebHost.xml
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.Mvc.xml
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.Optimization.xml
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.Razor.xml
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.WebPages.xml
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.WebPages.Deployment.xml
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.WebPages.Razor.xml
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Antlr3.Runtime.pdb
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\EntityFramework.xml
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\EntityFramework.SqlServer.xml
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.Owin.xml
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.Owin.Security.xml
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.Owin.Security.Google.xml
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\bin\System.Web.Http.Owin.xml
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\obj\Debug\OrdersAPI.csprojResolveAssemblyReference.cache
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\obj\Debug\OrdersProject.dll
+D:\Diplomado Software Testing\MODULO 3\Selenium\Automatizacion .Net\VstudioTest\OrdersProject\OrdersProject\OrdersProject\obj\Debug\OrdersProject.pdb
